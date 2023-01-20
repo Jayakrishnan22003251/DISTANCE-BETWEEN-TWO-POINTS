@@ -14,6 +14,9 @@ Print the distance in the formula
 ### Step 5: 
 End the program 
 ### PROGRAM:
+      Program to find the distance between two points.
+      Developed by:JAYAKRISHNAN L B L
+      RegisterNumber:22003251
       import math
       l1,l2=[4,2],[10,6]
       d=math.sqrt(((l2[0]-l1[0]))**2+((l2[1]-l1[1]))**2)
